@@ -109,3 +109,11 @@ Linux Commands Cheat Sheet
 * **ssh -p port_number user@host** - Подключается к удаленному хосту, если используется порт ssh, отличный от 22.
 * **ssh host** - Использует соединение по умолчанию в качестве текущего пользователя
 * **telnet host** - Использует соединение telnet (порт 23).
+* **ssh -i ~/.ssh/custom_key_name SYSUSER@x.x.x.x** - Подключение к удаленному хосту c помощью примватного ключа
+
+### VIM
+
+* https://losst.ru/kak-polzovatsya-tekstovym-redaktorom-vim
+
+
+сделано на основе https://serverspace.ru/support/help/shpargalka-po-komandam-linux/
